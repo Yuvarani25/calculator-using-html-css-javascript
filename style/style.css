@@ -1,0 +1,71 @@
+.container{
+    background-color: rgb(103, 110, 110);
+    width: 320px;
+    margin-top: 10%;
+    border-radius: 10px;
+    
+}
+.container i{
+    font-size: 50px;
+   
+}
+.row div{
+    
+    border-radius: 15px;
+    color: rgb(18, 18, 18);
+    text-align: center;
+    background-color: azure;
+
+}
+.row .col-8 {
+
+    margin-left: 10px;
+    height: 55px;
+}
+.col-10 
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+h1{
+    align-items: center;
+    font-size: 30px;
+}
+.col-3{
+    height: 50px;
+    width:60px;
+    margin:10px;
+}
+.row .col-4{
+    background-color: red;
+}
+.col-4{
+    border: 2px;
+    margin:10px;
+    width:60px;
+    
+    
+}
+.col-4 .btn{
+    color:azure
+}
+.row h1{
+    text-align: center; 
+}
+.col-3 h1{
+    font-size: 20px;
+    margin:15px;
+}
+.col-3 .btn{
+    margin-top: 5px;
+}
+.ans{
+    height:50px;
+    width:240px;
+    margin: 10px ;
+}
+.col-8 h1{
+    text-align: left;
+    font-size: 20px;
+    margin:15px ;
+}
